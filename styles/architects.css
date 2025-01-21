@@ -258,3 +258,16 @@ main > section{
       margin-left: 20px;
     }
   }
+
+
+  .footer-section-styles{
+        border-radius: 8px;
+        background: #FFF4E7;
+        text-align: center;
+        padding: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+        box-shadow: rgba(255, 244, 231, 1);
+        width: 1440px;
+  }
